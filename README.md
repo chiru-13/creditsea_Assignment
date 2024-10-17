@@ -28,7 +28,7 @@ A full-stack application for managing loan applications with a form and dashboar
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/loan-manager.git
+git clone https://github.com/chiru-13/creditsea_Assignment
 cd loan-manager
 ```
 
